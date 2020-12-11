@@ -1370,6 +1370,11 @@
     def: >
       The amount of working memory needed to accomplish a set of simultaneous tasks.
 
+- slug: command
+  en:
+    term: "command"
+    def: >
+      An instruction to a computer program to perform a specific task.
 
 - slug: command_history
   en:
